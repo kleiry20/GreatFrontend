@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  height: 2rem;
+  background-image: linear-gradient(to right, pink, purple);
+  padding: 1rem;
+}
+
+.projects {
+}
