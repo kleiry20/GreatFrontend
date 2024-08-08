@@ -6,7 +6,7 @@ body {
 .header {
   height: 2rem;
   background-image: linear-gradient(to right, pink, purple);
-  padding: 1rem;
+  padding: 1rem 2rem;
 }
 
 .main {
